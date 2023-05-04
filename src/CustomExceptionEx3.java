@@ -1,0 +1,2 @@
+public class CustomExceptionEx3 {
+}
